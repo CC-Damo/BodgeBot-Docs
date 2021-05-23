@@ -5,6 +5,7 @@
 |Arx Corinium|`nARX`|`vARX`|`vARXhm`|
 |Black Drake Villa|`nBDV`|`vBDV`|`vBDVhm`|
 |Blackheart Haven|`nBHH`|`vBHH`|`vBHHhm`|
+|Blackrose Prison|`nBRP`|`vBRP`|:x:|
 |Blessed Crucible|`nBC`|`vBC`|`vBChm`|
 |Bloodroot Forge|`nBRF`|`vBRF`|`vBRFhm`|
 |Castle Thorn|`nCT`|`vCT`|`vCThm`|
@@ -17,6 +18,7 @@
 |Darkshade Caverns II|`nDC2`|`vDC2`|`vDC2hm`|
 |Depths of Malatar|`nDOM`|`vDOM`|`vDOMhm`|
 |Direfrost Keep|`nDFK`|`vDFK`|`vDFKhm`|
+|Dragonstar Arena|`nDSA`|`vDSA`|:x:|
 |Elden Hollow I|`nEH1`|`vEH1`|`vEH1hm`|
 |Elden Hollow II|`nEH2`|`vEH2`|`vEH2hm`|
 |Falkreath Hold|`nFH`|`vFH`|`vFHhm`|
