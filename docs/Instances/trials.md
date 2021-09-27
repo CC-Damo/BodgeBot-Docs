@@ -9,6 +9,7 @@
 |Hel Ra Citadel|`nHRC`|`vHRC`|`vHRChm`|
 |Kyne’s Aegis|`nKA`|`vKA`|`vKAhm`|
 |Maw of Lorkhaj|`nMOL`|`vMOL`|`vMOLhm`|
+|Rockgrove|`nRG`|`vRG`|`vRGhm`|
 |Sanctum Ophidia|`nSO`|`vSO`|`vSOhm`|
 |Sunspire|`nSS`|`vSS`|`vSShm`|
 
