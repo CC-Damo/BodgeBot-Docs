@@ -12,4 +12,5 @@ extra_css:
 theme:
   name: material
   features:
+    - navigation.expand
     - navigation.sections

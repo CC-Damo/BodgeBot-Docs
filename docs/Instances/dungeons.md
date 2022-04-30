@@ -1,5 +1,7 @@
 # Dungeon List
 
+BodgeBot's out of box configured dungeon instances:
+
 | Dungeon | Normal | Veteran |Veteran HardMode|
 | --- | :---: | :---: |:---:|
 |Arx Corinium|`nARX`|`vARX`|`vARXhm`|

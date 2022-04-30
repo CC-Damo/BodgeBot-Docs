@@ -12,6 +12,9 @@ To sign-in to an event, select your role from the reaction list added by the Bot
 * :sparkling_heart: - Healer  
 * :crossed_swords: - Damage Dealer  
 
+## Mechanics Explaination
+* :question: - If you require mech explanations during this event, click the question mark to flag this to the trial leader.
+
 ## Sign-Out
 
 To sign-out of an event, select :x: the reaction list added by the Bot

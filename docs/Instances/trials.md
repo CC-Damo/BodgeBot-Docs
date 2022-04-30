@@ -1,5 +1,7 @@
 # Trial List
 
+BodgeBot's out of box configured trial instances:
+
 | Trial | Normal | Veteran |Veteran HardMode|
 | --- | :---: | :---: |:---:|
 |Aetherian Archive|`naa`|`vaa`|`vaahm`|
